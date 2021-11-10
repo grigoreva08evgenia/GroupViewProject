@@ -1,0 +1,2 @@
+# GroupViewProject
+Вывод списка групп
